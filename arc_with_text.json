@@ -1,0 +1,34 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "angle": "90",
+            "height": "3",
+            "radius": "40",
+            "text": "testsetsetsetset",
+            "text_font": "Arial",
+            "text_size": "4",
+            "width": "5"
+        },
+        "New set 2": {
+            "angle": "90",
+            "height": "3",
+            "radius": "40",
+            "text": "TESTelitest",
+            "text_font": "Arial",
+            "text_height": "1",
+            "text_size": "4",
+            "width": "5"
+        },
+        "New set 3": {
+            "angle": "270",
+            "height": "3",
+            "radius": "152",
+            "text": "TEST",
+            "text_font": "Arial",
+            "text_height": "1",
+            "text_size": "4",
+            "width": "5"
+        }
+    }
+}
